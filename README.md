@@ -29,7 +29,7 @@ Terminal visualizer and headless benchmark for Dijkstra, A\*, BFS and DFS on see
 **[OrderBridge](https://github.com/Nitin2489/orderbridge)**<br>
 <sub>Python · FastAPI · PostgreSQL · Next.js · TypeScript</sub>
 
-Ordering and order-desk platform built for an engineering take-home brief, using a simulated FMCG distribution scenario and synthetic data. It has a scheme-pricing engine on the backend that uses decimal arithmetic, row locks and idempotency keys on order confirmation, and OTP sign-in with hashed codes and rate limits. Informal order messages are parsed into lines that a person reviews before any order is created. Tested with pytest against PostgreSQL, Vitest, and Playwright end-to-end tests. [Live demo](https://orderbridge-ten.vercel.app) (synthetic data).
+Ordering and order-desk platform built for an engineering take-home brief, using a simulated FMCG distribution scenario and synthetic data. It has a scheme-pricing engine on the backend that uses decimal arithmetic, row locks and idempotency keys on order confirmation, and OTP sign-in with hashed codes and rate limits. Informal order messages are parsed into lines that a person reviews before any order is created. Tested with pytest against PostgreSQL, Vitest, and Playwright end-to-end tests (synthetic data).
 </td>
 </tr>
 <tr>
