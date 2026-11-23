@@ -18,7 +18,7 @@ High-performance networking on Linux, working on a DPDK user-space packet-proces
 <td width="50%" valign="top">
 <img src="assets/icon-pathfinding.svg" width="40" height="40" alt="">
 
-**[Pathfinding Visualizer & Benchmark](https://github.com/Nitin2489/Pathfinding-visualizer)**<br>
+**[Pathfinding Visualizer](https://github.com/Nitin2489/Pathfinding-visualizer)**<br>
 <sub>C++17 · CMake</sub>
 
 Terminal visualizer and headless benchmark for Dijkstra, A\*, BFS and DFS on seeded, reproducible grids. An independent reference solver checks every timed run. CI builds and tests on Linux, macOS and Windows and includes a sanitizer job. The repository contains a benchmark study of 82,400 timed searches on 2,970 grids, with its raw data, analysis scripts and an audit of the results.
